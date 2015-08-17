@@ -116,6 +116,8 @@ This architecture might seem like an overkill for a counter app, but the beauty 
 * [Glossary](http://rackt.github.io/redux/docs/Glossary.html)
 * [API Reference](http://rackt.github.io/redux/docs/api/index.html)
 
+For PDF, ePub, and MOBI exports and instructions for offline reading, please see: [paulwittmann/redux-offline-docs](https://github.com/paulwittmann/redux-offline-docs)
+
 ### Examples
 
 * [Counter](http://rackt.github.io/redux/docs/introduction/Examples.html#counter) ([source](https://github.com/rackt/redux/tree/master/examples/counter))
